@@ -1,0 +1,21 @@
+{
+  "players": [
+    {
+      "github": "teggimon",
+      "characters": [
+        {
+          "characterId": "4ece7239-0379-4615-8f99-20c5e9206185",
+          "owner": "teggimon",
+          "fileName": "jojsxsdx.json",
+          "name": "jojsxsdx",
+          "class": "Cleric 3",
+          "level": 3,
+          "hpCurrent": 21,
+          "hpMax": 21,
+          "active": true,
+          "inCampaign": true
+        }
+      ]
+    }
+  ]
+}
